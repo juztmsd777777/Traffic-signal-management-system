@@ -66,7 +66,7 @@ python opencv.py
 
 [![Watch the demo](https://img.youtube.com/vi/sLbDi59argg/0.jpg)](https://youtu.be/sLbDi59argg)
 
-[![Watch the demo](https://img.youtube.com/vi/sLbDi59argg/0.jpg)](https://youtu.be/sLbDi59argg)
+[![Watch the demo](https://img.youtube.com/vi/sLbDi59argg/0.jpg)](https://youtu.be/nzNhDcnFQPw)
 
 
 
